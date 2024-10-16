@@ -4,7 +4,4 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&letterSpacing=1px&duration=3000&pause=2000&color=F74D18&center=true&width=650&height=55&lines=Hello!+I'm+Sushant+Singh+Sajwan;A+Game+Designer+and+Software+Developer;Here's+my+Github+statistics+%3A-" alt="Typing SVG" /></a>
 
 
-[![](https://raw.githubusercontent.com/MoonMuffi9n/thickduck/master/profile-summary-card-output/codeSTACKr/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/MoonMuffi9n/thickduck/master/profile-summary-card-output/codeSTACKr/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/MoonMuffi9n/thickduck/master/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/MoonMuffi9n/thickduck/master/profile-summary-card-output/codeSTACKr/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/MoonMuffi9n/thickduck/master/profile-summary-card-output/codeSTACKr/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+[![My Github stats](https://github-readme-stats.vercel.app/api?username=Sushant)](https://github.com/Sushant/github-readme-stats)
