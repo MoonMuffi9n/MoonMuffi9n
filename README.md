@@ -2,6 +2,6 @@
 
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&letterSpacing=1px&duration=3000&pause=2000&color=F74D18&center=true&width=650&height=55&lines=Hello!+I'm+Sushant+Singh+Sajwan;A+Game+Designer+and+Software+Developer;Here's+my+Github+statistics+%3A-" alt="Typing SVG" /></a>
-
+</h1>
 
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=MoonMuffi9n&theme=transparent)](https://github.com/MoonMuffi9n/github-readme-stats)
